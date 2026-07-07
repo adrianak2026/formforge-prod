@@ -19,6 +19,4 @@ database_name = "formforge-db"
 database_id = ""
 migrations_dir = "migrations"
 
-[build]
-command = "npm run build"
 
